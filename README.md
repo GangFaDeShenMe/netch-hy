@@ -29,6 +29,7 @@ Some features may not be implemented in version 1
 - [`Trojan`](https://trojan-gfw.github.io/trojan)
 - [`VMess`](https://www.v2fly.org)
 - [`VLESS`](https://xtls.github.io)
+- [`hysteria`](https://hysteria.network)
 
 ### Others
 - UDP NAT FullCone (Limited by your server)
